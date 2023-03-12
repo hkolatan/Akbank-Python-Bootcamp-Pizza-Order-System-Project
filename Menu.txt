@@ -1,8 +1,8 @@
-Global Pizzaya Hoþgeldiniz! 
+Global Pizzaya Hoþ Geldiniz! 
 * Lütfen Bir Pizza Tabaný Seçiniz: 
 1: Klasik 
 2: Margarita 
-3: TürkPizza 
+3: Türk Pizza 
 4: Sade Pizza 
 * ve seçeceðiniz sos: 
 11: Zeytin 
